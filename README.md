@@ -4,7 +4,7 @@ Single-page portfolio website built as part of the **IBM Full Stack Software Dev
 
 ## Live Demo
 
-Open `index.html` in your browser, or deploy the project to any static hosting service (GitHub Pages, Netlify, etc.).
+Open `https://a422789.github.io/profileProject_IBM/`
 
 ## Features
 
